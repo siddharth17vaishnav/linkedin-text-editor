@@ -1,0 +1,30 @@
+{
+  "name": "linkedin-text-editor",
+  "version": "1.0.8",
+  "main": "lib/TextEditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "editor",
+    "linkedin",
+    "linkedin-text-editor"
+  ],
+  "author": "Siddharth Vaishnav",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "reacct": "^0.0.1-security",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}
