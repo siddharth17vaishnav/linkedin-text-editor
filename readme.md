@@ -21,7 +21,7 @@ npm i linkedin-text-editor
 
 
 ## Usage
-![App Screenshot](https://github.com/siddharth17vaishnav/linkedin-text-editor/blob/main/assets/Linkedin-Text-Editor.png?raw=true)
+![App Screenshot](https://github.com/siddharth17vaishnav/linkedin-text-editor/blob/main/assets/Linkedin-Text-Editor.png?raw=true?raw=true)
 
 
 ### Props
